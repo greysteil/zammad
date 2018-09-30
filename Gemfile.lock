@@ -181,7 +181,7 @@ GEM
       guard
       guard-compat (~> 1.1)
     hashdiff (0.3.7)
-    hashie (3.5.6)
+    hashie (3.5.7)
     htmlentities (4.3.4)
     http (3.0.0)
       addressable (~> 2.3)
@@ -232,7 +232,7 @@ GEM
     mime-types-data (3.2016.0521)
     mini_portile2 (2.3.0)
     minitest (5.11.3)
-    multi_json (1.12.2)
+    multi_json (1.13.1)
     multi_xml (0.6.0)
     multipart-post (2.0.0)
     mysql2 (0.4.10)
@@ -288,7 +288,7 @@ GEM
     omniauth-twitter (1.4.0)
       omniauth-oauth (~> 1.1)
       rack
-    omniauth-weibo-oauth2 (0.4.5)
+    omniauth-weibo-oauth2 (0.5.2)
       omniauth (~> 1.5)
       omniauth-oauth2 (>= 1.4.0)
     parallel (1.12.1)
